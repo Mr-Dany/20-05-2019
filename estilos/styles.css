@@ -13,4 +13,7 @@ a{text-decoration: none;text-transform: uppercase;}
 }
 body{
 	background-image: url(imagenes/Convenio-Europeo-del-Paisaje.jpg);
+	background-repeat: no-repeat;
+	background-repeat: repeat-x;
+	background-repeat: repeat-y;
 }
