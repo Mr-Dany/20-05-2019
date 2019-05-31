@@ -11,3 +11,6 @@ a{text-decoration: none;text-transform: uppercase;}
 	width: 200px;
 	background-image: url('imagenes/FC_Barcelona.png');
 }
+body{
+	background-image: url(imagenes/Convenio-Europeo-del-Paisaje.jpg);
+}
