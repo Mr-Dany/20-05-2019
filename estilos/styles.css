@@ -9,5 +9,5 @@ a{text-decoration: none;text-transform: uppercase;}
 .figura{
 	height: 150px;
 	width: 200px;
-	background-color: red;
+	background-image: url('imagenes/FC_Barcelona.png');
 }
