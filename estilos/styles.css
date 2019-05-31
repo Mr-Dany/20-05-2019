@@ -6,3 +6,8 @@
 	font-weight: bold;text-decoration: underline;
 }
 a{text-decoration: none;text-transform: uppercase;}
+.figura{
+	height: 150px;
+	width: 200px;
+	background-color: red;
+}
