@@ -1,7 +1,8 @@
 .letras{
 	font-size: 30px;
-	font-style: italic;
+	text-align: right;
 }
 .negra{
 	font-weight: bold;text-decoration: underline;
 }
+a{text-decoration: none;text-transform: uppercase;}
